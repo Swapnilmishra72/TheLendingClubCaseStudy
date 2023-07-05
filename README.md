@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 This article focuses on the loan program, where a credit bureau provides financial assistance to individuals or businesses in need. The objective of this case study is to analyze and optimize the loan process using a variety of data-driven analytical methods.
 
 
