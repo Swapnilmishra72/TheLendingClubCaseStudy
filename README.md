@@ -3,12 +3,13 @@ This article focuses on the loan program, where a credit bureau provides financi
 
 
 ## Table of Contents
-1.Introduction
-2.Data
-3.Objective
-4.Methods
-5.Results
-6.Conclusion
+
+1. Introduction
+2. Data
+3. Objective
+4. Methods
+5. Results
+6. Conclusion
 
 <!-- You can include any other section that is pertinent to your problem -->
 
