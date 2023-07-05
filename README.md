@@ -9,7 +9,7 @@ This article focuses on the loan program, where a credit bureau provides financi
 4.Methods
 5.Results
 6.Conclusion
-7.References
+
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
